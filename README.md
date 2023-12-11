@@ -1,1 +1,3 @@
-# gender_making
+# telugu_nouns
+
+Telugu nouns for Gender marking 
