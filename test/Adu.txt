@@ -1,0 +1,3 @@
+kanugilpu,n,Adu
+pedu,n,Adu
+vivAhamAdu,n,Adu
