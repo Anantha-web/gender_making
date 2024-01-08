@@ -1,0 +1,13 @@
+BAnu,n,cenu, neutral
+ParlAMgu,n,cenu, neutral
+cIrapenu,n,cenu, neutral
+caxanu,n,cenu, neutral
+ceVtlaguMpu,n,cenu, neutral
+cenu,n,cenu, neutral
+gajanu,n,cenu, neutral
+menu,n,cenu, neutral
+nApacenu,n,cenu, neutral
+nUvucenu,n,cenu, neutral
+penu,n,cenu, neutral
+wAluvu,n,cenu, neutral
+warPIxu,n,cenu, neutral
